@@ -76,7 +76,6 @@ GET /ai/ask?q=your-question
 
 ### Example
 
-text
 What is Java?
 
 ---
@@ -90,7 +89,7 @@ Upload a resume PDF file for AI-powered analysis.
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/adityasahay12/ai-resume-analyzer-career-assistant.git
+https://github.com/adityasahay12/ai-resume-analyzer-career-assistant
 ```
 
 ---
